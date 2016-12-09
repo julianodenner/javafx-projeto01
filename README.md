@@ -10,4 +10,4 @@
     <li>Alterar o texto da Label via código ao abrir a janela</li>
   </ol>
 </p>
-<a href="https://youtu.be/HRIXoPkdmO4">Assistir o passo-a-passo...</a> 
+<a href="https://youtu.be/HRIXoPkdmO4"><img src="http://jdenner.com/resources/btn-video.png" alt=""></a>
